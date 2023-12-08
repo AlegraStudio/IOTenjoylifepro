@@ -1,4 +1,8 @@
-Como Dominic Williams, fundador de DFINITY y creador de Internet Computer, reconozco la importancia de la integración de Ethereum para proyectos como Alegra Studio. La capacidad de utilizar tokens de Ethereum (ETH) en el ecosistema de Internet Computer a través de un mecanismo de token 1:1 (como ckETH) no solo proporciona una puerta de enlace para los activos de Ethereum, sino que también abre nuevas vías para monetizar y sostener proyectos impulsados por jóvenes talentos. Vamos a crear un archivo README que refleje esta integración y enfoque en Alegra Studio.
+La integración de Ethereum en el ecosistema de Internet Computer representa un avance significativo para proyectos como Alegra Studio, enfocados en la monetización y sostenibilidad de iniciativas lideradas por jóvenes talentos. Esta colaboración implica el uso de tokens Ethereum (ETH) a través de un mecanismo de token 1:1, como ckETH, brindando una conexión eficaz con los activos de Ethereum.
+
+Un aspecto innovador de este proyecto es la planeada integración en un canister que estará vinculado a una pulsera IoT, parte de la iniciativa "Enjoy Life Professional Network" o "Enjoy Life Pro Net!". Esta pulsera IoT es un esfuerzo pionero que busca conectar el mundo físico con el digital, ofreciendo una nueva dimensión de interactividad y funcionalidad.
+
+Actualmente, el proyecto se encuentra en una fase de investigación y desarrollo, en colaboración con estudiantes y profesionales de la Universidad del Magdalena, Colombia, particularmente de las áreas de ingeniería electrónica y campos afines. Este esfuerzo conjunto no solo fortalece el vínculo entre la academia y la industria tecnológica, sino que también proporciona una plataforma invaluable para que los estudiantes apliquen sus conocimientos en proyectos reales y revolucionarios, ampliando así sus oportunidades de aprendizaje y desarrollo profesional.
 
 ---
 
@@ -7,6 +11,8 @@ Como Dominic Williams, fundador de DFINITY y creador de Internet Computer, recon
 > #### Conectando Ethereum con la blockchain de Internet Computer para empoderar y monetizar el talento joven.
 
 ---
+
+Esta iniciativa representa un paso hacia adelante en la búsqueda de soluciones innovadoras y sostenibles que aprovechan la tecnología blockchain para beneficio de las nuevas generaciones y el avance de proyectos educativos y profesionales.
 
 ## [🌐 Ver Dapp Desplegada](https://alegra-studio-icp.eth)
 
