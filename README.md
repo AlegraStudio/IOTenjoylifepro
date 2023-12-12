@@ -1,4 +1,4 @@
-La integración de Ethereum en el ecosistema de Internet Computer representa un avance significativo para proyectos como Alegra Studio, enfocados en la monetización y sostenibilidad de iniciativas lideradas por jóvenes talentos. Esta colaboración implica el uso de tokens Ethereum (ETH) a través de un mecanismo de token 1:1, como ckETH, brindando una conexión eficaz con los activos de Ethereum.
+La integración de Ethereum en el ecosistema de Internet Computer representa un avance significativo para nuestro proyecto Alegra Studio, enfocados en la monetización y sostenibilidad de iniciativas lideradas por jóvenes talentos. Esta colaboración implica el uso de tokens Ethereum (ETH) a través de un mecanismo de token 1:1, como ckETH, brindando una conexión eficaz con los activos de Ethereum.
 
 Un aspecto innovador de este proyecto es la planeada integración en un canister que estará vinculado a una pulsera IoT, parte de la iniciativa "Enjoy Life Professional Network" o "Enjoy Life Pro Net!". Esta pulsera IoT es un esfuerzo pionero que busca conectar el mundo físico con el digital, ofreciendo una nueva dimensión de interactividad y funcionalidad.
 
